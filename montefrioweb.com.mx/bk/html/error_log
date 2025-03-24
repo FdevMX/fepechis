@@ -1,0 +1,42 @@
+[08-Jul-2024 13:33:41 America/Mexico_City] PHP Warning:  Undefined array key "website" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 44
+[08-Jul-2024 13:33:41 America/Mexico_City] PHP Warning:  Undefined array key "subject" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 45
+[08-Jul-2024 13:33:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home1/safeclea/public_html/prueba/bk/html/contact.php:33
+Stack trace:
+#0 /home1/safeclea/public_html/prueba/bk/html/contact.php(51): check_email('edrayvalsquez@g...')
+#1 {main}
+  thrown in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 33
+[08-Jul-2024 13:33:42 America/Mexico_City] PHP Warning:  Undefined array key "website" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 44
+[08-Jul-2024 13:33:42 America/Mexico_City] PHP Warning:  Undefined array key "subject" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 45
+[08-Jul-2024 13:33:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home1/safeclea/public_html/prueba/bk/html/contact.php:33
+Stack trace:
+#0 /home1/safeclea/public_html/prueba/bk/html/contact.php(51): check_email('edrayvalsquez@g...')
+#1 {main}
+  thrown in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 33
+[08-Jul-2024 13:33:45 America/Mexico_City] PHP Warning:  Undefined array key "website" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 44
+[08-Jul-2024 13:33:45 America/Mexico_City] PHP Warning:  Undefined array key "subject" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 45
+[08-Jul-2024 13:33:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home1/safeclea/public_html/prueba/bk/html/contact.php:33
+Stack trace:
+#0 /home1/safeclea/public_html/prueba/bk/html/contact.php(51): check_email('edrayvalsquez@g...')
+#1 {main}
+  thrown in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 33
+[08-Jul-2024 13:33:49 America/Mexico_City] PHP Warning:  Undefined array key "website" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 44
+[08-Jul-2024 13:33:49 America/Mexico_City] PHP Warning:  Undefined array key "subject" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 45
+[08-Jul-2024 13:33:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home1/safeclea/public_html/prueba/bk/html/contact.php:33
+Stack trace:
+#0 /home1/safeclea/public_html/prueba/bk/html/contact.php(51): check_email('edrayvalsquez@g...')
+#1 {main}
+  thrown in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 33
+[08-Jul-2024 13:33:50 America/Mexico_City] PHP Warning:  Undefined array key "website" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 44
+[08-Jul-2024 13:33:50 America/Mexico_City] PHP Warning:  Undefined array key "subject" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 45
+[08-Jul-2024 13:33:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home1/safeclea/public_html/prueba/bk/html/contact.php:33
+Stack trace:
+#0 /home1/safeclea/public_html/prueba/bk/html/contact.php(51): check_email('edrayvalsquez@g...')
+#1 {main}
+  thrown in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 33
+[08-Jul-2024 13:33:51 America/Mexico_City] PHP Warning:  Undefined array key "website" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 44
+[08-Jul-2024 13:33:51 America/Mexico_City] PHP Warning:  Undefined array key "subject" in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 45
+[08-Jul-2024 13:33:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home1/safeclea/public_html/prueba/bk/html/contact.php:33
+Stack trace:
+#0 /home1/safeclea/public_html/prueba/bk/html/contact.php(51): check_email('edrayvalsquez@g...')
+#1 {main}
+  thrown in /home1/safeclea/public_html/prueba/bk/html/contact.php on line 33

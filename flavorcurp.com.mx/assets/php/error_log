@@ -1,0 +1,58 @@
+[12-Feb-2025 12:48:42 America/Mexico_City] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home1/kastocom/flavorcurp.com.mx/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[12-Feb-2025 12:50:57 America/Mexico_City] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home1/kastocom/flavorcurp.com.mx/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[12-Feb-2025 12:51:27 America/Mexico_City] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home1/kastocom/flavorcurp.com.mx/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[12-Feb-2025 12:56:35 America/Mexico_City] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home1/kastocom/flavorcurp.com.mx/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[12-Feb-2025 12:56:59 America/Mexico_City] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home1/kastocom/flavorcurp.com.mx/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[12-Feb-2025 12:59:28 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[12-Feb-2025 13:01:14 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[12-Feb-2025 13:02:56 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[12-Feb-2025 13:05:11 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[12-Feb-2025 13:06:14 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[12-Feb-2025 13:06:17 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[12-Feb-2025 13:06:18 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[12-Feb-2025 13:06:27 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[12-Feb-2025 13:14:05 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 01:49:11 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 01:49:28 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 01:49:39 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 01:50:18 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 01:52:53 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 01:52:55 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 01:53:19 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 01:53:31 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 02:05:19 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 02:09:18 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 02:10:50 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 02:19:40 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 02:19:42 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 02:20:02 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 02:21:54 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 02:26:46 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/contact.php on line 30
+[13-Feb-2025 02:27:12 America/Mexico_City] PHP Warning:  Undefined array key "people" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 8
+[13-Feb-2025 02:27:12 America/Mexico_City] PHP Warning:  Undefined array key "day" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 9
+[13-Feb-2025 02:27:12 America/Mexico_City] PHP Warning:  Undefined array key "time" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 10
+[13-Feb-2025 02:27:12 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 27
+[13-Feb-2025 02:27:19 America/Mexico_City] PHP Warning:  Undefined array key "people" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 8
+[13-Feb-2025 02:27:19 America/Mexico_City] PHP Warning:  Undefined array key "day" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 9
+[13-Feb-2025 02:27:19 America/Mexico_City] PHP Warning:  Undefined array key "time" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 10
+[13-Feb-2025 02:27:19 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 27
+[13-Feb-2025 02:27:23 America/Mexico_City] PHP Warning:  Undefined array key "people" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 8
+[13-Feb-2025 02:27:23 America/Mexico_City] PHP Warning:  Undefined array key "day" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 9
+[13-Feb-2025 02:27:23 America/Mexico_City] PHP Warning:  Undefined array key "time" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 10
+[13-Feb-2025 02:27:23 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 27
+[13-Feb-2025 02:27:27 America/Mexico_City] PHP Warning:  Undefined array key "people" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 8
+[13-Feb-2025 02:27:27 America/Mexico_City] PHP Warning:  Undefined array key "day" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 9
+[13-Feb-2025 02:27:27 America/Mexico_City] PHP Warning:  Undefined array key "time" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 10
+[13-Feb-2025 02:27:27 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 27
+[13-Feb-2025 02:27:39 America/Mexico_City] PHP Warning:  Undefined array key "people" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 8
+[13-Feb-2025 02:27:39 America/Mexico_City] PHP Warning:  Undefined array key "day" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 9
+[13-Feb-2025 02:27:39 America/Mexico_City] PHP Warning:  Undefined array key "time" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 10
+[13-Feb-2025 02:27:39 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 27
+[13-Feb-2025 02:28:46 America/Mexico_City] PHP Warning:  Undefined array key "people" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 8
+[13-Feb-2025 02:28:46 America/Mexico_City] PHP Warning:  Undefined array key "day" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 9
+[13-Feb-2025 02:28:46 America/Mexico_City] PHP Warning:  Undefined array key "time" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 10
+[13-Feb-2025 02:28:46 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 27
+[13-Feb-2025 02:29:52 America/Mexico_City] PHP Warning:  Undefined array key "people" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 8
+[13-Feb-2025 02:29:52 America/Mexico_City] PHP Warning:  Undefined array key "day" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 9
+[13-Feb-2025 02:29:52 America/Mexico_City] PHP Warning:  Undefined array key "time" in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 10
+[13-Feb-2025 02:29:52 America/Mexico_City] PHP Warning:  Undefined variable $body in /home1/kastocom/flavorcurp.com.mx/assets/php/reservationpopup.php on line 27

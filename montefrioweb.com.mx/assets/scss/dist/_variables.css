@@ -1,0 +1,89 @@
+:root {
+  --body: #fff;
+  --black-clr: #000;
+  --white-clr: #fff;
+  --p1-clr:#fdd61f ;
+  --p2-clr: #fdd61f;
+  --p900-clr: #1f4e3d;
+  --pure900-clr: #225744;
+  --p800-clr: #6d756d;
+  --p700-clr: #191919;
+  --p200-clr: #e9efe5;
+  --p100-clr: #eff3ed;
+  --box-clr: #2A5747;
+  --shadow-clr: box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.black-clr {
+  color: var(--black-clr) !important;
+}
+
+.black-bg {
+  background: var(--black-clr) !important;
+}
+
+.white-clr {
+  color: var(--white-clr) !important;
+}
+
+.white-bg {
+  background: var(--white-clr) !important;
+}
+
+.p1-clr {
+  color: var(--p1-clr) !important;
+}
+
+.p1-bg {
+  background: var(--p1-clr) !important;
+}
+
+.p2-clr {
+  color: var(--p2-clr) !important;
+}
+
+.p2-bg {
+  background: var(--p2-clr) !important;
+}
+
+.p900-clr {
+  color: var(--p900-clr) !important;
+}
+
+.p900-bg {
+  background: var(--p900-clr) !important;
+}
+
+.p800-clr {
+  color: var(--p800-clr) !important;
+}
+
+.p800-bg {
+  background: var(--p800-clr) !important;
+}
+
+.p700-clr {
+  color: var(--p700-clr) !important;
+}
+
+.p700-bg {
+  background: var(--p700-clr) !important;
+}
+
+.p200-clr {
+  color: var(--p200-clr) !important;
+}
+
+.p200-bg {
+  background: var(--p200-clr) !important;
+}
+
+.p100-clr {
+  color: var(--p100-clr) !important;
+}
+
+.p100-bg {
+  background: var(--p100-clr) !important;
+}
+
+/*# sourceMappingURL=_variables.css.map */
