@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="description" content="YMALAYA - Servicios de Publicidad Digital en Tuxtla Gutiérrez, Chiapas.">
+  <link href="assets/images/favicon/favicon.png" rel="icon">
+  <title>YMALAYA - Servicios de Publicidad Digital</title>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Roboto:400,500,700%7cTeko:400,500,600,700&display=swap">
+  <link rel="stylesheet" href="assets/css/libraries.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <!-- =========================
+        Header
+    =========================== -->
+    <header id="header" class="header header-white">
+      <nav class="navbar navbar-expand-lg sticky-navbar">
+        <div class="container">
+          <a class="navbar-brand" href="index.html">
+            <img src="assets/images/logo/logo.png" class="logo-light" alt="logo">
+            <img src="assets/images/logo/logo.png" class="logo-dark" alt="logo">
+          </a>
+          <button class="navbar-toggler" type="button">
+            <span class="menu-lines"><span></span></span>
+          </button>
+          <div class="collapse navbar-collapse" id="mainNavigation">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav__item with-dropdown">
+                <a href="index.html" class="dropdown-toggle nav__item-link" >Inicio</a>
+                <i class="fa fa-angle-right" data-toggle="dropdown"></i>
+                
+              </li><!-- /.nav-item -->
+              <li class="nav__item with-dropdown">
+                <a href="about-us.html" class="dropdown-toggle nav__item-link">Sobre nosotros</a>
+                <i class="fa fa-angle-right" data-toggle="dropdown"></i>
+                
+              </li><!-- /.nav-item -->
+              <li class="nav__item with-dropdown">
+                <a href="services.html" class="dropdown-toggle nav__item-link">Servicios</a>
+                <i class="fa fa-angle-right" data-toggle="dropdown"></i>
+                
+              </li><!-- /.nav-item -->
+              
+              <li class="nav__item">
+                <a href="contacs.html" class="nav__item-link  active">Contáctanos</a>
+              </li><!-- /.nav-item -->
+            </ul><!-- /.navbar-nav -->
+          </div><!-- /.navbar-collapse -->
+          
+        </div><!-- /.container -->
+      </nav><!-- /.navabr -->
+    </header><!-- /.Header -->
+
+    <!-- ========================= 
+        Google Map
+=========================  -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2271.6828824560694!2d-93.12343935317142!3d16.751782460153514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sCalle%205a.%20Poniente%20Sur%2C%20No.%20375.%20Col.%20San%20Pascualito!5e0!3m2!1ses-419!2smx!4v1743179296706!5m2!1ses-419!2smx" width="1920" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+    <!-- ==========================
+        contact layout 1
+    =========================== -->
+    <section id="contactLayout1" class="contact contact-layout1 pt-0">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-12">
+            <div class="contact__panel">
+              <div class="contact__panel-banner">
+                <img src="assets/images/services/4.jpeg" alt="banner img">
+                <div class="cta__banner">
+                  <p class="cta__desc"><strong>Nos pondremos en contacto contigo dentro de 24 horas.</strong></p>
+                  <div class="contact__number d-flex align-items-center">
+                    <i class="icon-phone"></i>
+                    <a href="tel:(+52) 961 177 6364">961 177 6364</a>
+                  </div>
+                </div>
+              </div>
+              <form method="POST" action="assets/enviar_correo.php" id="contact-form" class="contact__form-panel">
+                <div class="row">
+                  <div class="col-sm-12 contact__form-panel-header">
+                    <h4>Contáctanos</h4>
+                    <p>Nos dedicamos a ofrecer servicios publicitarios de alta calidad y a precios competitivos. Completa el formulario para ponerte en contacto con nosotros y recibir la mejor atención.  </p>
+                  </div>
+                  <div class="col-sm-6 col-md-6 col-lg-6">
+                    <div class="form-group"><input type="text" class="form-control" placeholder="Nombre" id="contact-name"
+                        name="nombre" required></div>
+                  </div><!-- /.col-lg-6 -->
+                  <div class="col-sm-6 col-md-6 col-lg-6">
+                    <div class="form-group"><input type="email" class="form-control" placeholder="Correo"
+                        id="contact-email" name="email" required></div>
+                  </div><!-- /.col-lg-6 -->
+                  <div class="col-sm-6 col-md-6 col-lg-6">
+                    <div class="form-group"><input type="text" class="form-control" placeholder="Teléfono"
+                        id="contact-Phone" name="phone" required></div>
+                  </div><!-- /.col-lg-6 -->
+                  <div class="col-sm-6 col-md-6 col-lg-6">
+                    <div class="form-group"><input type="text" class="form-control" name="sitio" placeholder="sitio web">
+                    </div>
+                  </div><!-- /.col-lg-6 -->
+                  <div class="col-sm-12 col-md-12 col-lg-12">
+                    <div class="form-group">
+                      <textarea class="form-control" placeholder="Mensaje..." id="contact-messgae"
+                        name="mensaje" required></textarea>
+                    </div>
+                  </div><!-- /.col-lg-12 -->
+                  <div class="col-sm-12 col-md-12 col-lg-12">
+                      <p class="ajax-response mb-0"></p>
+                    <button type="submit" class="btn btn__secondary btn__block">
+                      <span>Enviar</span><i class="icon-arrow-right"></i>
+                    </button>
+                    <div class="contact-result"></div>
+                  </div><!-- /.col-lg-12 -->
+                </div><!-- /.row -->
+              </form>
+            </div><!-- /.contact__panel -->
+          </div><!-- /.col-lg-12 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.contact layout 1 -->
+
+    <!-- ==========================
+       Contact Info
+    ============================ -->
+    <section id="contactInfo" class="contact contact-info pt-0">
+      <div class="container">
+        <div class="row">
+          <!-- Contact panel #1 -->
+          <div class="col-sm-12 col-md-4 col-lg-4">
+            <div class="contact-info-box">
+              <h4 class="contact__info-box-title">Oficina de Tuxtla Gutiérrez</h4>
+              <ul class="contact__info-list list-unstyled">
+                <li>Correo: <a href="milto:info@ymalaya.shop">info@ymalaya.shop</a></li>
+                <li>Dirección: Calle 5a. Poniente Sur, No. 375. Col. San Pascualito</li>
+                <li>Teléfono: (+52) 9611776364</li>
+              </ul><!-- /.contact__info-list -->
+            </div><!-- /.contact-info-box -->
+          </div><!-- /.col-lg-4 -->
+          <!-- Contact panel #2 -->
+          
+          <!-- Contact panel #3 -->
+          
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Contact Info -->
+
+    <!-- ========================
+      Footer
+    ========================== -->
+    <footer id="footer" class="footer">
+      <div class="footer-top">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 footer__widget footer__widget-about">
+              <h6 class="footer__widget-title">Contacto Rápido</h6>
+              <div class="footer__widget-content">
+                <p class="color-gray">Si tienes alguna pregunta o necesitas ayuda, no dudes en ponerte en contacto con nuestro equipo.</p>
+                <p class="footer__contact-phone">
+                  <i class="icon-phone"></i>
+                  <a href="tel:(+52) 961 177 6364">(+52) 961 177 6364</a>
+                </p>
+                <p>Tuxtla Gutiérrez, Chiapas, México</p>
+                <ul class="social__icons">
+                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                  
+                </ul><!-- /.social-icons -->
+              </div>
+            </div><!-- /.col-xl-3 -->
+            <div class="col-6 col-sm-6 col-md-6 col-lg-3 col-xl-2 offset-xl-1 footer__widget footer__widget-nav">
+              <h6 class="footer__widget-title">YMALAYA</h6>
+              <div class="footer__widget-content">
+                <nav>
+                  <ul class="list-unstyled">
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="about-us.html">Sobre nosotros</a></li>
+                    <li><a href="services.html">Servicios</a></li>
+                    <li><a href="contacs.html">Contáctanos</a></li>
+                    
+                  </ul>
+                </nav>
+              </div><!-- /.footer-widget-content -->
+            </div><!-- /.col-xl-2 -->
+            
+            
+          </div><!-- /.row -->
+        </div><!-- /.container -->
+      </div><!-- /.footer-top -->
+      <div class="footer-bottom">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12 col-md-3 col-lg-3">
+              <img src="assets/images/logo/logo.png" alt="logo">
+            </div><!-- /.col-lg-3 -->
+            <div class="col-sm-12 col-md-9 col-lg-9 text-right">
+              <div class="footer__copyright">
+                  
+                <p class="mb-0"> &copy; 2020 YMALAYA, All Rights Reserved.</p>
+              </div><!-- /.Footer-copyright -->
+            </div><!-- /.col-lg-9 -->
+          </div><!-- /.row -->
+        </div><!-- /.container -->
+      </div><!-- /.Footer-bottom -->
+    </footer><!-- /.Footer -->
+    <button id="scrollTopBtn"><i class="fa fa-long-arrow-up"></i></button>
+
+    <div class="module__search-container">
+      <i class="fa fa-times close-search"></i>
+      <form class="module__search-form">
+        <input type="text" class="search__input" placeholder="Type Words Then Enter">
+        <button class="module__search-btn"><i class="fa fa-search"></i></button>
+      </form>
+    </div><!-- /.module-search-container -->
+
+  </div><!-- /.wrapper -->
+
+  <script src="assets/js/jquery-3.6.0.min.js"></script>
+  <script src="assets/js/ajax-form.js"></script>
+  <script src="assets/js/plugins.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+
+</html>
