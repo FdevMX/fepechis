@@ -100,8 +100,35 @@
 			<div class="col-md-9">
 				<h3>Contactanos</h3>
 				<p>
-					y has tus preguntas.
+					Estamos aquí para ayudarte. Contáctanos a través de cualquiera de nuestras oficinas.
 				</p>
+				<div class="box_style_2">
+					<div class="row">
+						<div class="col-md-6">
+							<h4>Oficina Matriz - CDMX</h4>
+							<p>
+								AV. SANTA FE 505, INT. PSIO 1 MEZZANINE 2B<br>
+								CONTADERO, CUAJIMALPA DE MORELOS<br>
+								CDMX. C.P. 05349<br>
+								<a href="tel://5532692201">+52 (55) 3269 2201</a><br>
+								<a href="mailto:contacto@merk2.site">contacto@merk2.site</a><br>
+								<small><strong>Horario:</strong> Lunes a Viernes 08:00am a 16:00pm</small>
+							</p>
+						</div>
+						<div class="col-md-6">
+							<h4>Oficina Sucursal - Chiapas</h4>
+							<p>
+								AV. 12 SUR ORIENTE 355, INT. C<br>
+								OBRERA, TUXTLA GUTIERREZ<br>
+								CHIAPAS. C.P. 29080<br>
+								<a href="tel://9611827312">+52 (961) 182 7312</a><br>
+								<a href="mailto:contacto@merk2.site">contacto@merk2.site</a><br>
+								<small><strong>Horario:</strong> Lunes a Viernes 09:00am a 17:00pm</small>
+							</p>
+						</div>
+					</div>
+				</div>
+
 				<div>
 					<div id="message-contact"></div>
 					<form id="contact-form" action="assets/enviar_correo.php" method="POST" class="contact__form">
@@ -109,13 +136,13 @@
 							<div class="col-md-6 col-sm-6">
 								<div class="form-group">
 									<label>Nombre</label>
-									<input type="text" class="form-control styled" id="name_contact" name="name" placeholder="Jhon">
+									<input type="text" class="form-control styled" id="name_contact" name="name">
 								</div>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<div class="form-group">
 									<label>Apellido:</label>
-									<input type="text" class="form-control styled" id="lastname_contact" name="lastname" placeholder="Doe">
+									<input type="text" class="form-control styled" id="lastname_contact" name="lastname">
 								</div>
 							</div>
 						</div>
@@ -123,13 +150,13 @@
 							<div class="col-md-6 col-sm-6">
 								<div class="form-group">
 									<label>Correo:</label>
-									<input type="email" id="email_contact" name="email" class="form-control styled" placeholder="jhon@email.com">
+									<input type="email" id="email_contact" name="email" class="form-control styled">
 								</div>
 							</div>
 							<div class="col-md-6 col-sm-6">
 								<div class="form-group">
 									<label>Numero de telefono:</label>
-									<input type="tel" id="phone_contact" name="phone" class="form-control styled" placeholder="00 44 5435435">
+									<input type="tel" id="phone_contact" name="phone" class="form-control styled">
 								</div>
 							</div>
 						</div>
@@ -137,7 +164,7 @@
 							<div class="col-md-12">
 								<div class="form-group">
 									<label>Tu mensaje:</label>
-									<textarea rows="5" id="message_contact" name="mensaje" class="form-control styled" style="height:100px;" placeholder="Hello world!"></textarea>
+									<textarea rows="5" id="message_contact" name="mensaje" class="form-control styled" style="height:100px;"></textarea>
 								</div>
 							</div>
 						</div>
@@ -153,38 +180,29 @@
 			<!-- End col lg 9 -->
 			<aside class="col-md-3">
 				<div class="box_style_2">
-					<h4>Informacion de Contacto</h4>
-					<p>
-						Tuxtla Gutierrez, Chiapas
-						<br> +52 (961) 182 7312
-						<br>
-						<a href="#">contacto@merk2.site</a>
-					</p>
-					<h5>Obtener dirreccion</h5>
-					<form action="http://maps.google.com/maps" method="get" target="_blank">
-						<div class="form-group">
-							<input type="text" name="saddr" placeholder="Ingrese su localidad" class="form-control styled">
-							<input type="hidden" name="daddr" value="New York, NY 11430">
-							<!-- Write here your end point -->
-						</div>
-						<input type="submit" value="Localizar" class="btn_1 add_bottom_15">
-					</form>
+					<h4>Ubicaciones</h4>
+					<div class="map-selector">
+						<h5>Matriz CDMX</h5>
+						<a href="https://maps.app.goo.gl/NwTfeMJa2n6GBrhCA" target="_blank" class="btn_1 add_bottom_15">Ver en Google Maps</a>
+						<h5>Sucursal Chiapas</h5>
+						<a href="https://maps.app.goo.gl/ajbieT4k6eb7qyth6" target="_blank" class="btn_1 add_bottom_15">Ver en Google Maps</a>
+					</div>
 					<hr class="styled">
 					<h4>Departamentos</h4>
 					<ul class="contacts_info">
-						<li>Administración
-							<br>
-							<a href="tel://9611827312">+52 (961) 182 7312</a>
-							<br><a href="#">contacto@merk2.site</a>
-							<br>
-							<small>Lunes A Viernes 9am - 7pm</small>
-						</li>
-						<li>Preguntas Generales
+						<li>Matriz CDMX
 							<br>
 							<a href="tel://5532692201">+52 (55) 3269 2201</a>
-							<br><a href="#">contacto@merk2.site</a>
+							<br><a href="mailto:contacto@merk2.site">contacto@merk2.site</a>
 							<br>
-							<small>Lunes A Viernes 9am - 7pm</small>
+							<small>Lunes a Viernes 08:00am a 16:00pm</small>
+						</li>
+						<li>Sucursal Chiapas
+							<br>
+							<a href="tel://9611827312">+52 (961) 182 7312</a>
+							<br><a href="mailto:contacto@merk2.site">contacto@merk2.site</a>
+							<br>
+							<small>Lunes a Viernes 09:00am a 17:00pm</small>
 						</li>
 					</ul>
 				</div>
@@ -197,16 +215,33 @@
 
 	<div class="map-container">
 		<div class="map-wrapper">
-			<iframe
-				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1910.3383066651722!2d-93.11576952881755!3d16.742979925829786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ecd91ebd1b0175%3A0x1afdb9b25ee160d9!2sPUBLIMARKETING%20Y%20ESPECTACULOS%20ENLACE%20SA%20DE%20CV!5e0!3m2!1ses-419!2smx!4v1743030870965!5m2!1ses-419!2smx"
-				style="border:0;" 
-				allowfullscreen="" 
-				loading="lazy"
-				referrerpolicy="no-referrer-when-downgrade">
-			</iframe>
+			<div class="row">
+				<div class="col-md-6">
+					<h4 class="text-center">Matriz CDMX</h4>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.259030592893!2d-99.27914611422963!3d19.357933596421457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d200ca340196c3%3A0x59ffdbbf915d17cb!2sAv.%20Santa%20Fe%20505%2C%20Lomas%20de%20Santa%20Fe%2C%20Contadero%2C%20Cuajimalpa%20de%20Morelos%2C%2005348%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses!2smx!4v1744798503675!5m2!1ses!2smx" 
+						width="100%" 
+						height="450" 
+						style="border:0;" 
+						allowfullscreen="" 
+						loading="lazy" 
+						referrerpolicy="no-referrer-when-downgrade">
+					</iframe>
+				</div>
+				<div class="col-md-6">
+					<h4 class="text-center">Sucursal Chiapas</h4>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1910.3383259817363!2d-93.115004!3d16.742978!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ecd91ebd1b0175%3A0x1afdb9b25ee160d9!2sPUBLIMARKETING%20Y%20ESPECTACULOS%20ENLACE%20SA%20DE%20CV!5e0!3m2!1ses-419!2smx!4v1744798553681!5m2!1ses-419!2smx" 
+						width="100%" 
+						height="450" 
+						style="border:0;" 
+						allowfullscreen="" 
+						loading="lazy" 
+						referrerpolicy="no-referrer-when-downgrade">
+					</iframe>
+				</div>
+			</div>
 		</div>
 	</div>
-	<!-- end map-->  
+	<!-- end map-->
     
 	
     </main><!--/main-->
@@ -275,7 +310,7 @@
 								<div class="col-xs-6">
 									<input type="Enviar" name="login-submit" id="login-submit" tabindex="4" class="btn_1" value="Log In">
 								</div>
-								<div class="col-xs-6">
+									<div class="col-xs-6">
 									<a href="http://phpoll.com/recover" tabindex="5" class="forgot-password">Forgot Password?</a>
 								</div>
 							</div>
